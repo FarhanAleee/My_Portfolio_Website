@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(1, 1, 96);
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    font-size: x-large;
+}
+body{
+    background-color: black;
+    color: white;
+}
